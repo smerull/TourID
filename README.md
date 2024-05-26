@@ -10,7 +10,7 @@ Bangkit Capston Project
 | NAME | JOB | GITHUB |	LinkedIn |
 | ------ | ------ | ------ | ------ |
 | Novi Dwi Fitriani | ML Engineer |  |  |
-| Riska Septyan | ML Engineer |  |  |
+| Riska Septyani | ML Engineer |  |  |
 | Deriansyah Aulia Muharram | ML Engineer |  |  |
 | Roihan Farras Setyadi | Cloud Engineer |  |  |
 | Aulia Pradina | Cloud Engineer  |  |  |
